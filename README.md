@@ -5,7 +5,7 @@ Use [`expo-router`](https://expo.github.io/router) to build universally responsi
 
 ## Demo
 
-Check out the [web demo here](https://expo-instagram-layout.netlify.app/). Pull the app and run in Expo Go to see the results on native.
+Check out the [web demo here](https://expo-instagram-layout.vercel.app/). Pull the app and run in Expo Go to see the results on native.
 
 Check out [this sandbox](https://codesandbox.io/p/sandbox/github/EvanBacon/expo-router-instagram-layout) to edit the code inside your browser.
 
@@ -25,5 +25,6 @@ https://github.com/EvanBacon/expo-router-instagram-layout/assets/9664363/171740c
 
 ## 📝 Notes
 
-- [Expo Router: Docs](https://expo.github.io/router)
+
+- [Expo Router: Docs](https://docs.expo.dev/router/introduction/)
 - [Expo Router: Repo](https://github.com/expo/router)
